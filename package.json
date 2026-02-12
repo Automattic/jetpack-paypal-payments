@@ -22,10 +22,10 @@
 		"watch": "webpack --watch --config ./webpack.config.blocks.js"
 	},
 	"dependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.0.53",
+		"@automattic/babel-plugin-replace-textdomain": "^1.0.54-alpha",
 		"@automattic/format-currency": "1.0.1",
 		"@automattic/jetpack-script-data": "^0.5.4",
-		"@automattic/jetpack-shared-extension-utils": "^1.4.11",
+		"@automattic/jetpack-shared-extension-utils": "^1.4.12-alpha",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/remove-asset-webpack-plugin": "^1.0.34",
 		"@wordpress/base-styles": "6.15.0",
@@ -51,9 +51,9 @@
 	},
 	"devDependencies": {
 		"@automattic/jetpack-base-styles": "^1.0.16-alpha",
-		"@babel/core": "7.28.4",
-		"@babel/plugin-transform-react-jsx": "7.27.1",
-		"@babel/runtime": "7.28.4",
+		"@babel/core": "7.29.0",
+		"@babel/plugin-transform-react-jsx": "7.28.6",
+		"@babel/runtime": "7.28.6",
 		"@testing-library/dom": "10.4.1",
 		"@testing-library/jest-dom": "6.9.1",
 		"@testing-library/react": "16.3.0",
