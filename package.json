@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-paypal-payments",
-	"version": "0.6.7-alpha",
+	"version": "0.6.7",
 	"private": true,
 	"description": "Add PayPal, credit, and debit card payment buttons with minimal setup. Good for collecting donations or payments for products and services.",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/paypal-payments/#readme",
@@ -24,8 +24,8 @@
 	"dependencies": {
 		"@automattic/babel-plugin-replace-textdomain": "^1.0.55",
 		"@automattic/format-currency": "1.0.1",
-		"@automattic/jetpack-script-data": "^0.6.0-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^1.5.1-alpha",
+		"@automattic/jetpack-script-data": "^0.6.0",
+		"@automattic/jetpack-shared-extension-utils": "^1.5.1",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/remove-asset-webpack-plugin": "^1.0.35",
 		"@wordpress/base-styles": "6.16.0",
@@ -50,7 +50,7 @@
 		"webpack-cli": "6.0.1"
 	},
 	"devDependencies": {
-		"@automattic/jetpack-base-styles": "^1.0.18-alpha",
+		"@automattic/jetpack-base-styles": "^1.0.18",
 		"@babel/core": "7.29.0",
 		"@babel/plugin-transform-react-jsx": "7.28.6",
 		"@babel/runtime": "7.28.6",
