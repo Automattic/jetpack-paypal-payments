@@ -24,7 +24,7 @@
 	"dependencies": {
 		"@automattic/babel-plugin-replace-textdomain": "^1.0.55",
 		"@automattic/format-currency": "1.0.1",
-		"@automattic/jetpack-script-data": "^0.6.0",
+		"@automattic/jetpack-script-data": "^0.6.1-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^1.5.3-alpha",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/remove-asset-webpack-plugin": "^1.0.35",
