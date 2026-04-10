@@ -24,8 +24,8 @@
 	"dependencies": {
 		"@automattic/babel-plugin-replace-textdomain": "^1.0.56",
 		"@automattic/format-currency": "1.0.1",
-		"@automattic/jetpack-script-data": "^0.6.2-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^1.5.8-alpha",
+		"@automattic/jetpack-script-data": "^0.6.2",
+		"@automattic/jetpack-shared-extension-utils": "^1.5.8",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/remove-asset-webpack-plugin": "^1.0.36",
 		"@wordpress/base-styles": "6.19.0",
@@ -50,7 +50,7 @@
 		"webpack-cli": "6.0.1"
 	},
 	"devDependencies": {
-		"@automattic/jetpack-base-styles": "^1.0.21-alpha",
+		"@automattic/jetpack-base-styles": "^1.0.21",
 		"@babel/core": "7.29.0",
 		"@babel/plugin-transform-react-jsx": "7.28.6",
 		"@babel/runtime": "7.29.2",
