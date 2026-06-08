@@ -5,16 +5,16 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-assets": "^4.3.41-alpha",
-		"automattic/jetpack-plans": "^0.11.9-alpha",
-		"automattic/jetpack-connection": "^8.5.5-alpha",
+		"automattic/jetpack-assets": "^4.3.41",
+		"automattic/jetpack-plans": "^0.11.9",
+		"automattic/jetpack-connection": "^8.5.5",
 		"automattic/jetpack-blocks": "^3.3.4-alpha",
-		"automattic/jetpack-status": "^6.1.7-alpha"
+		"automattic/jetpack-status": "^6.1.7"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.8-alpha"
+		"automattic/phpunit-select-config": "^1.0.8"
 	},
 	"autoload": {
 		"classmap": [
