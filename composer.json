@@ -4,16 +4,16 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"php": ">=7.2",
-		"automattic/jetpack-assets": "^4.4.11",
-		"automattic/jetpack-plans": "^0.12.0",
-		"automattic/jetpack-connection": "^8.12.0",
-		"automattic/jetpack-blocks": "^3.3.6",
-		"automattic/jetpack-status": "^6.5.0"
+		"php": ">=7.4",
+		"automattic/jetpack-assets": "^5.0.0-alpha",
+		"automattic/jetpack-plans": "^0.13.0-alpha",
+		"automattic/jetpack-connection": "^9.0.0-alpha",
+		"automattic/jetpack-blocks": "^4.0.0-alpha",
+		"automattic/jetpack-status": "^7.0.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/phpunit-select-config": "^1.0.9"
+		"automattic/phpunit-select-config": "^1.0.10-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -44,7 +44,7 @@
 	"extra": {
 		"autotagger": true,
 		"branch-alias": {
-			"dev-trunk": "0.7.x-dev"
+			"dev-trunk": "0.8.x-dev"
 		},
 		"changelogger": {
 			"link-template": "https://github.com/Automattic/jetpack-paypal-payments/compare/v${old}...v${new}"
