@@ -8,6 +8,7 @@
 		"automattic/jetpack-assets": "^5.0.2",
 		"automattic/jetpack-plans": "^0.13.0",
 		"automattic/jetpack-connection": "^9.1.2-alpha",
+		"automattic/jetpack-feature-flags": "^0.2.0",
 		"automattic/jetpack-blocks": "^4.0.0",
 		"automattic/jetpack-status": "^7.0.1-alpha"
 	},
@@ -44,7 +45,7 @@
 	"extra": {
 		"autotagger": true,
 		"branch-alias": {
-			"dev-trunk": "0.8.x-dev"
+			"dev-trunk": "0.9.x-dev"
 		},
 		"changelogger": {
 			"link-template": "https://github.com/Automattic/jetpack-paypal-payments/compare/v${old}...v${new}"
