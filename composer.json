@@ -10,7 +10,7 @@
 		"automattic/jetpack-connection": "^9.2.0-alpha",
 		"automattic/jetpack-feature-flags": "^0.2.0",
 		"automattic/jetpack-blocks": "^4.0.0",
-		"automattic/jetpack-status": "^7.0.1-alpha"
+		"automattic/jetpack-status": "^7.0.1"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
